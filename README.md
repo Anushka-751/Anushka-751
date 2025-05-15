@@ -10,29 +10,19 @@
 
 ---
 
-## 🛠 Tech Stack
+## 🔧 Tech Stack
+![Languages](https://img.shields.io/badge/Code-Java|C++|Python|JS-informational)
+![Frontend](https://img.shields.io/badge/Frontend-React|Next|HTML|CSS-blue)
+![Backend](https://img.shields.io/badge/Backend-Node|MongoDB|SQL-green)
+![Tools](https://img.shields.io/badge/Tools-Git|VSCode|Postman-lightgrey)
 
-*Languages:* Java, C++, Python, JavaScript  
-*Frontend:* React.js, Next.js, HTML5, CSS3  
-*Backend:* Node.js, Express.js, MongoDB, SQL  
-*Tools:* Git, GitHub, VS Code, Postman, Netlify  
-*Concepts:* REST APIs, DSA, OOP, MVC, Agile, Responsive Design
+## 📌 Featured Projects
+- *[Price Comparison Site](https://github.com/Anushka-751/price-comparison)* — React app integrating Flipkart & Amazon APIs for smart shopping
+- *[Netflix Clone](https://github.com/Anushka-751/netflix-clone)* — Dynamic React frontend replicating Netflix UI
+- *[Hospital DBMS](https://github.com/Anushka-751/hospital-dbms)* — SQL-based system for hospital data management
+- *[Weather App](https://github.com/Anushka-751/weather-app)* — Real-time weather forecasts with OpenWeatherMap API
 
----
 
-## 🌟 Featured Projects
-
-### [Price Comparison Site](https://github.com/Anushka-751/price-comparison)
-Compare Amazon & Flipkart prices instantly using a smart React UI and product APIs.
-
-### [Netflix Clone](https://github.com/Anushka-751/netflix-clone)
-Built a dynamic React app replicating Netflix's design using TMDB API & Firebase Auth.
-
-### [Weather App](https://github.com/Anushka-751/weather-app)
-Live weather data with OpenWeatherMap API and React interface.
-
-### [Hospital DBMS](https://github.com/Anushka-751/hospital-dbms)
-MySQL-powered database system for hospital scheduling and patient record management.
 
 ---
 
