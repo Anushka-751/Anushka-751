@@ -1,6 +1,6 @@
 # Hi, I'm Anushka A Poojary!
 
-### 👩‍💻 Aspiring Software Developer | 🌐 Full Stack Web Developer | 🎓 CSE Undergraduate
+### 👩‍💻 Aspiring Software Developer | Data Science Enthusiast |🌐 Full Stack Web Developer | 🎓 CSE Undergraduate
 
 - 🎓 3rd Year B.E. in Computer Science Engineering @ SMVITM (VTU)
 - 💻 Building full-stack apps using React, Next.js, Node.js & MongoDB
