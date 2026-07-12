@@ -72,7 +72,6 @@
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anushka-751&show_icons=true&theme=tokyonight" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Anushka-751&theme=tokyonight&hide_border=true" />
 
 <br/>
 
