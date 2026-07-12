@@ -12,7 +12,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 * 🔭 Currently working on **Java, Spring Boot & DevOps Projects**
 * 🌱 Learning **AWS, Docker, Jenkins & CI/CD**
