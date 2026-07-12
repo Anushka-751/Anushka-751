@@ -70,15 +70,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anushka-751&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anushka-751&show_icons=true&theme=tokyonight" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Anushka-751&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Anushka-751&theme=tokyonight&hide_border=true" />
 
-</div>
+<br/>
 
-<div align="center">
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-751&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-751&layout=compact&theme=tokyonight" />
 
 </div>
 
@@ -88,7 +86,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Anushka-751&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+<img src="https://github-profile-trophy.vercel.app/?username=Anushka-751&theme=tokyonight&row=1&column=6" />
 
 </div>
 
