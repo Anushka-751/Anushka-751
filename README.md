@@ -70,23 +70,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anushka-751&show_icons=true&theme=tokyonight" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=Anushka-751&theme=tokyonight&hide_border=true" />
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushka-751&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anushka-751&theme=tokyonight&row=1&column=6" />
+<img width="65%" src="https://streak-stats.demolab.com?user=Anushka-751&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -96,10 +80,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anushka-751&theme=tokyo-night&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anushka-751&theme=tokyo-night&hide_border=true" />
 
 </div>
-
 ---
 
 ## 🤝 Connect With Me
