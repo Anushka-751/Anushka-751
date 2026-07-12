@@ -82,17 +82,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anushka-751&theme=tokyonight&row=1&column=6" />
-<img width="65%" src="https://streak-stats.demolab.com?user=Anushka-751&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
